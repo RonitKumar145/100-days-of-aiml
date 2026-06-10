@@ -5,7 +5,7 @@ An intensive, production-grade 100+ day collaborative roadmap executed by the co
 ---
 
 ## 👥 The Engineering Core
-* **Ronit Kumar** ([@KAYDENV](https://github.com/RonitKumar145)) 
+* **Ronit Kumar** ([@RonitKumar145](https://github.com/RonitKumar145)) 
 * **Vaibhav Singh** ([@vaibhavcodes-ARC](https://github.com/vaibhavcodes-ARC)) 
 
 ---
